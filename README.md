@@ -1,6 +1,6 @@
 # 🍳GrandMother’s Food
 
-## **¿Que productos y servicios brindara nuestro sitio?
+## ¿Que productos y servicios brindara nuestro sitio?
 
 ### *Amplia variedad de recetas de cocina, incluyendo recetas de diferentes tipos de cocina y para diferentes necesidades dietéticas, para que los usuarios puedan encontrar lo que están buscando.*
 
